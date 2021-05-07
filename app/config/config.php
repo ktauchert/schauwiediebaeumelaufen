@@ -1,9 +1,9 @@
 <?php
 // DB Params
-define('DB_HOST', 'rdbms.strato.de');
-define('DB_USER', 'dbu727497');
-define('DB_PASS', 'N7MGfrdCYlV1a69tfWfJ');
-define('DB_NAME', 'dbs1923921');
+define('DB_HOST', '');
+define('DB_USER', '');
+define('DB_PASS', '');
+define('DB_NAME', '');
 
 // App Root
 define('APPROOT', dirname(dirname(__FILE__)));
